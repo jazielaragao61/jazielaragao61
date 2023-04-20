@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end development 
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on in big companies
-- 📫 How to reach me, by my e-mail: vitorsm226@gmail.com
+- 📫 How to reach me, by my e-mail: jazievi@hotmail.com
 
 <!---
 jazielaragao61/jazielaragao61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
