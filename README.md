@@ -5,6 +5,7 @@ Hello! Welcome to my Github profile 👋
 - 🌱 Atualmente estou aprendendo Rust, metodologias ageis, docker, kubernets, terraform 
 - Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 - 👯 Estou procurando colaborar em projetos open source
 - ⚡ Curiosidade: além de estudar tecnoligas, sou saxofonista e me interosso bastante por musica
 - 📫 e-mail: jazievi@hotmail.com 
