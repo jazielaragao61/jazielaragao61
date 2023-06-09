@@ -17,6 +17,7 @@ Hello! Welcome to my Github profile 👋
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 - 👯 Estou procurando colaborar em projetos open source
 <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+
 - ⚡ Curiosidade: além de estudar tecnoligas, sou saxofonista e me interosso bastante por musica
 - ☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência
 - 📫 e-mail: jazievi@hotmail.com 
