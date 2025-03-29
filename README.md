@@ -7,4 +7,4 @@ Hello! Welcome to my Github profile 👋
 
 - ☕🎮 só acordo com café, adoro games e as vezer faço piadas ruins
 - 📫 e-mail: jazievi@hotmail.com 
-- 📱 telefone: 61981648149
+- 📱 telefone: 61991516437
