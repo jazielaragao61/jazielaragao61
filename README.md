@@ -1,5 +1,19 @@
-Bem vindo ao meu perfil GitHub 👋
-Hello! Welcome to my Github profile 👋
+# Olá, eu sou o Jaziel! 👋
+
+Analista de Infraestrutura apaixonado por sistemas de baixo nível, segurança e a robustez dos Mainframes.
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** COBOL, Python, Rust, C.
+- **Sistemas:** Linux (Zorin OS/Fedora), Mainframe (z/OS emulado).
+- **Segurança:** Auditoria de logs, Automação de segurança, Redes.
+
+## 🚀 Projetos em Destaque
+- **[Sistema de Gestão Bancária (COBOL)]**: Processamento de arquivos Batch para validação de transações.
+- **[Auditor de Acessos Linux (Python)]**: Script para identificar tentativas de invasão em logs do sistema.
+- **[Trilogia Harmônica]**: Desenvolvimento de roteiros e conceitos de Sci-Fi (meu lado criativo!).
+
+## 🎓 Formação
+- Segurança da Informação - Faculdade Senac (3º Semestre)-
 
 - Ferramentas e Tecnologias
  
