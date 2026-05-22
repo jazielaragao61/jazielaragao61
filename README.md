@@ -10,7 +10,7 @@ Analista de Infraestrutura apaixonado por sistemas de baixo nível, segurança e
 ## 🚀 Projetos em Destaque
 - **[Sistema de Gestão Bancária (COBOL)]**: Processamento de arquivos Batch para validação de transações.
 - **[Auditor de Acessos Linux (Python)]**: Script para identificar tentativas de invasão em logs do sistema.
-- **[Trilogia Harmônica]**: Desenvolvimento de roteiros e conceitos de Sci-Fi (meu lado criativo!).
+- **[Anubis Anti-Phishing Detector]**: Desenvolvimento de um anti-phishing para e-mails.
 
 ## 🎓 Formação
 - Segurança da Informação - Faculdade Senac (3º Semestre)-
